@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+body{
+    font-family: 'Roboto Condensed',sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 10vh;
+    background-image: url("toll3.png");
+    background-color: rgba(red, green, blue, .01);
+    background-size: 100vw 100vh;
+    background-size: cover;
+    font-size: 30px;
+    background-blend-mode:screen;
+    
+}
+.btn{
+    background-color: maroon;
+    color: white;
+    padding: 20px;
+    border-radius: 10%;
+    font-size: 30px;
+}
+.save-btn{
+    background-color: green;
+    color: white;
+    padding: 20px;
+    border-radius: 10%;
+    margin-top: 10px;
+    font-size: 30px;
+
+}
